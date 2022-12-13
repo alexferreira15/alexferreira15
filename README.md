@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexandre Fereira</h1>
+<h1 align="center">Hi 👋, I'm Alexandre Ferreira</h1>
 <h3 align="center">A passionate Full Stack Developer from Portugal</h3>
 
 - 🌱 I’m currently learning **React.js !**
